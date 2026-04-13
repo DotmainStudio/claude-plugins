@@ -1,5 +1,5 @@
 ---
-name: relume
+name: base-connector
 description: >
   Full Relume workflow — bridges the RELUME-KIT Figma file with the React code library.
   Use when the user wants to go from a Figma design to code, pick a Relume component for

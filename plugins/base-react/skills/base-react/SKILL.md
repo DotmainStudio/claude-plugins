@@ -1,5 +1,5 @@
 ---
-name: relume-components
+name: base-react
 description: >
   Find and use Relume React + HTML components from the DotmainStudio code library.
   Use when the user asks to implement a UI section, build a page, find component code,

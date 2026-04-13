@@ -1,5 +1,5 @@
 ---
-name: relume-figma
+name: base-figma
 description: >
   Working guide for the RELUME-KIT Figma file (r8zlPV51ULZouN5JUylrN7). Use this skill
   whenever the user asks to design, select, reference, or compose sections and components

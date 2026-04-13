@@ -1,5 +1,5 @@
 ---
-name: color-scale
+name: color-scale-generator
 description: >
   Descompone cualquier color HEX en una escala completa de 0 a 100 tonos, manteniendo la esencia del color (hue y saturación) variando solo la luminosidad. Genera tokens semánticos para UI (fondos claros, fondos oscuros, texto, acentos, bordes). Usa esta skill siempre que el usuario mencione: descomponer un color, generar escala de colores, paleta de colores, tonos de un color, escala de grises de un color, colores para una interfaz, design tokens, color para fondo/texto/acento, o cuando pida trabajar con un HEX y extraer variaciones. También trigerea con frases como "dame los tonos de este color", "genera una paleta", "quiero los colores de un azul para mi web".
 ---

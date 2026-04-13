@@ -7,30 +7,30 @@
   },
   "plugins": [
     {
-      "name": "relume",
+      "name": "base-connector",
       "description": "Full Relume design-to-code workflow — bridges RELUME-KIT Figma file with the React component library",
-      "source": "./plugins/relume",
+      "source": "./plugins/base-connector",
       "category": "design",
       "homepage": "https://github.com/DotmainStudio/claude-plugins"
     },
     {
-      "name": "relume-components",
+      "name": "base-react",
       "description": "Guide for finding and using Relume React + HTML components from the DotmainStudio code library (1072 components)",
-      "source": "./plugins/relume-components",
+      "source": "./plugins/base-react",
       "category": "design",
       "homepage": "https://github.com/DotmainStudio/claude-plugins"
     },
     {
-      "name": "relume-figma",
+      "name": "base-figma",
       "description": "Working guide for the RELUME-KIT Figma file — component catalog, naming conventions, and design tokens",
-      "source": "./plugins/relume-figma",
+      "source": "./plugins/base-figma",
       "category": "design",
       "homepage": "https://github.com/DotmainStudio/claude-plugins"
     },
     {
-      "name": "color-scale",
+      "name": "color-scale-generator",
       "description": "Generates a complete 0–100 color scale from any HEX using HSL interpolation, with semantic UI tokens for backgrounds, text, borders and accents",
-      "source": "./plugins/color-scale",
+      "source": "./plugins/color-scale-generator",
       "category": "design",
       "homepage": "https://github.com/DotmainStudio/claude-plugins"
     }

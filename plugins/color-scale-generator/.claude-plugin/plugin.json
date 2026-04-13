@@ -1,5 +1,5 @@
 {
-  "name": "color-scale",
+  "name": "color-scale-generator",
   "description": "Generates a complete 0–100 color scale from any HEX color using HSL interpolation, with semantic UI tokens",
   "version": "1.0.0",
   "author": {
