@@ -1,0 +1,9 @@
+{
+  "name": "relume-figma",
+  "description": "Working guide for the RELUME-KIT Figma file — component naming, catalog, design tokens, and Figma MCP integration",
+  "version": "1.0.0",
+  "author": {
+    "name": "DotmainStudio"
+  },
+  "keywords": ["figma", "relume", "design", "components", "ui"]
+}

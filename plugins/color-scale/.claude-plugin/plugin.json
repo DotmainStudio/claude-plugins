@@ -1,0 +1,9 @@
+{
+  "name": "color-scale",
+  "description": "Generates a complete 0–100 color scale from any HEX color using HSL interpolation, with semantic UI tokens",
+  "version": "1.0.0",
+  "author": {
+    "name": "DotmainStudio"
+  },
+  "keywords": ["color", "design-tokens", "palette", "ui", "figma"]
+}
