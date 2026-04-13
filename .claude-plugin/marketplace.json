@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dotmainstudio",
+  "description": "DotmainStudio personal Claude Code plugins — design workflows, Figma integration, and UI tools",
+  "owner": {
+    "name": "DotmainStudio"
+  },
+  "plugins": [
+    {
+      "name": "relume-figma",
+      "description": "Working guide for the RELUME-KIT Figma file — component catalog, naming conventions, and design tokens",
+      "source": "./plugins/relume-figma",
+      "category": "design",
+      "homepage": "https://github.com/DotmainStudio/claude-plugins"
+    },
+    {
+      "name": "color-scale",
+      "description": "Generates a complete 0–100 color scale from any HEX using HSL interpolation, with semantic UI tokens for backgrounds, text, borders and accents",
+      "source": "./plugins/color-scale",
+      "category": "design",
+      "homepage": "https://github.com/DotmainStudio/claude-plugins"
+    }
+  ]
+}
