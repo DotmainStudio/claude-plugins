@@ -1,0 +1,7 @@
+{
+  "name": "relume-components",
+  "description": "Guide for finding and using Relume React + HTML components from the DotmainStudio code library (manifest search, category files, 1072 components)",
+  "version": "1.0.0",
+  "author": { "name": "DotmainStudio" },
+  "keywords": ["relume", "react", "components", "ui", "tailwind"]
+}

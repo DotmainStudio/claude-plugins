@@ -1,0 +1,7 @@
+{
+  "name": "relume",
+  "description": "Full Relume design-to-code workflow — bridges RELUME-KIT Figma file with the React component library. Figma name to code file mapping, full page building, design tokens.",
+  "version": "1.0.0",
+  "author": { "name": "DotmainStudio" },
+  "keywords": ["relume", "figma", "react", "design-to-code", "workflow"]
+}

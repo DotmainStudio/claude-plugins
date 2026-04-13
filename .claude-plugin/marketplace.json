@@ -7,6 +7,20 @@
   },
   "plugins": [
     {
+      "name": "relume",
+      "description": "Full Relume design-to-code workflow — bridges RELUME-KIT Figma file with the React component library",
+      "source": "./plugins/relume",
+      "category": "design",
+      "homepage": "https://github.com/DotmainStudio/claude-plugins"
+    },
+    {
+      "name": "relume-components",
+      "description": "Guide for finding and using Relume React + HTML components from the DotmainStudio code library (1072 components)",
+      "source": "./plugins/relume-components",
+      "category": "design",
+      "homepage": "https://github.com/DotmainStudio/claude-plugins"
+    },
+    {
       "name": "relume-figma",
       "description": "Working guide for the RELUME-KIT Figma file — component catalog, naming conventions, and design tokens",
       "source": "./plugins/relume-figma",
