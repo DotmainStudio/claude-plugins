@@ -32,16 +32,16 @@ Two resources work together:
 | `FAQ / N /` | 1–14 | faq-sections | react/faq-sections.tsx |
 | `Contact / N /` | 1–30 | contact-sections | react/contact-sections.tsx |
 | `Stats / N /` | 1–60 | stats-sections | react/stats-sections.tsx |
-| `Blog Header / N /` | 1–32 | blog-header-sections | react/blog-header-sections.tsx |
-| `Blog Section / N /` | 1–36 | blog-sections | react/blog-sections.tsx |
-| `Form / N /` | 1–46 | multi-step-forms | react/multi-step-forms.tsx |
+| `Blog / N /` | 1–32 | blog-header-sections | react/blog-header-sections.tsx |
+| `Blog / N /` | 1–36 | blog-sections | react/blog-sections.tsx |
+| `Multi Form / N /` | 1–46 | multi-step-forms | react/multi-step-forms.tsx |
 | `Form / N /` | 1–20 | forms | react/forms.tsx |
-| `App Shell / N /` | 1–16 | application-shells | react/application-shells.tsx |
+| `Application Shell / N /` | 1–16 | application-shells | react/application-shells.tsx |
 | `Table / N /` | 1–10 | tables | react/tables.tsx |
-| `Auth Page / N /` | 1–17 | sign-up-and-log-in-pages | react/sign-up-and-log-in-pages.tsx |
-| `Auth Modal / N /` | 1–5 | sign-up-and-log-in-modals | react/sign-up-and-log-in-modals.tsx |
+| `Sign up / N /` or `Login / N /` | 1–17 | sign-up-and-log-in-pages | react/sign-up-and-log-in-pages.tsx |
+| `Sign up - Modal / N /` or `Login - Modal / N /` | 1–5 | sign-up-and-log-in-modals | react/sign-up-and-log-in-modals.tsx |
 | `Sidebar / N /` | 1–12 | sidebars | react/sidebars.tsx |
-| `Onboarding / N /` | 1–17 | onboarding-forms | react/onboarding-forms.tsx |
+| `Onboarding Form / N /` | 1–17 | onboarding-forms | react/onboarding-forms.tsx |
 | `Career / N /` | 1–27 | career-sections | react/career-sections.tsx |
 | `Gallery / N /` | 1–27 | gallery-sections | react/gallery-sections.tsx |
 | `Team / N /` | 1–22 | team-sections | react/team-sections.tsx |
